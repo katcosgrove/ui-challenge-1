@@ -1,0 +1,17 @@
+header {
+  height: 8vh;
+  text-align: center;
+}
+
+main p {
+  margin-top: 7vh;
+}
+
+ul li {
+  width: 40vw;
+  list-style-type: none;
+}
+
+ul li p {
+  margin-top: 15vh;
+}
