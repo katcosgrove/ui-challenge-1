@@ -1,0 +1,25 @@
+* {
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  color: dimgrey;
+}
+
+header, main, section, aside, li, footer {
+  background-color: lightgrey;
+  border: 1px solid grey;
+}
+
+@media only screen and (min-width: 800px) {
+  body {
+    width: 960px;
+    margin-left: 15vw;
+  }
+
+  main {
+    width: 100%;
+  }
+
+}
